@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>inserting lists in html </title>
+</head>
+
+<body>
+
+  <h1>My Favourite chocolates
+  </h1> 
+  <ol type="1"> 
+  <li><h3>5 star</h3><ul type="square">
+      <li>Manufacturer:Cadbury</li>
+      <li>Description:Carmel and nougat covered in milk chocolate</li>
+<li>Distributers :
+<ol type="a">
+<li>India</li>
+<li>Malasyia</li>
+<li>Philippines</li>
+<li>Brazil</li>
+</ol>
+
+</li></ul>
+
+
+</li><li><h3>Amul Chocolate</h3><ul type="square">
+  <li>Manufacturer:Anand Milk Union Limited </li>
+  <li>Description:Available in orange,milk and chocolate flavours</li>
+<li>Distributers :
+<ol type="a">
+<li>India</li>
+
+</ol>
+
+</li></ul>
+
+</li><li><h3>Kit kat</h3><ul type="square">
+  <li>Manufacturer:Nestle ,Hershey's in U.S</li>
+  <li>Description: Wafers in chocolates  ( Over100 varieties world wide ,most from Japan.)</li>
+<li>Distributers :
+<ol type="a">
+<li>United Kingdom</li>
+<li>Worid wide</li>
+
+</ol>
+
+</li></ul>
+
+
+
+
+</li><li><h3>Almond Joy</h3><ul type="square">
+  <li>Manufacturer: Hershey</li>
+  <li>Description: Milk chocolate covered coconut with whole almonds.</li>
+<li>Distributers :
+<ol type="a">
+<li> United States</li>
+<li>Canada</li>
+
+</ol>
+
+</li></ul>
+
+
+</li><li><h3>Cadbury Dairy Milk</h3><ul type="square">
+  <li>Manufacturer:Cadbury</li>
+  <li>Description:Milk chocolate</li>
+<li>Distributers :
+<ol type="a">
+<li>Ireland</li>
+<li>India</li>
+<li>United Kingdom</li>
+<li>Philippines</li>
+<li>Canada</li>
+<li>Pakistan</li>
+<li> Malasiya</li>
+<li>New Zealand</li>
+<li>Austrailia</li>
+</ol>
+
+</li></ul>
+
+
+</li><li><h3>Curly Wurly</h3><ul type="square">
+  <li>Manufacturer:Cadbury</li>
+  <li>Description:Chocolate covered caramel braid</li>
+<li>Distributers :
+<ol type="a">
+<li>Ireland</li>
+<li>United Kingdom</li>
+<li>Netherlands</li>
+<li>Austrailia</li>
+<li>New Zealand</li>
+</ol>
+
+</li></ul>
+
+
+
+</li><li><h3>Safari</h3><ul type="square">
+  <li>Manufacturer:Gandour</li>
+  <li>Description:Chocolate coated on caramel covered wafer sandwitch</li>
+<li>Distributers :
+<ol type="a">
+<li>India</li>
+<li>Philippines</li>
+<li>Saudi Arabia</li>
+<li>Lebanon</li>
+<li>Egypt</li>
+</ol>
+
+</li></ul>
+
+</li><li><h3>Picnic</h3><ul type="square">
+  <li>Manufacturer:Cadbury</li>
+  <li>Description:Peanuts,Caramel,Wafers and cripsed rice in milk chocolate</li>
+<li>Distributers :
+<ol type="a">
+<li>Ukarine</li>
+<li>United Kingdom</li>
+<li>Ireland</li>
+<li>New Zealand</li>
+<li>Austrailia</li>
+</ol>
+
+</li></ul>
+
+
+
+
+</li><li><h3>Mr. Big</h3><ul type="square">
+  <li>Manufacturer:Cadbury</li>
+  <li>Description:Cripsed rice,Peanuts and a vanilla fudge center covered in cadbury milk chocolate</li>
+<li>Distributers :
+<ol type="a">
+<li>Canada</li>
+<li>Worldwide</li>
+
+</ol>
+
+</li></ul>
+
+</li><li><h3>Milky Way</h3><ul type="square">
+  <li>Manufacturer:Mars</li>
+  <li>Description:Chocolate nougat with caramel in chocolate coating.Pictured are American and British Milky Way candy bars.There is no caramel in British version.</li>
+<li>Distributers :
+<ol type="a">
+<li>United States</li>
+<li>Ireland</li>
+<li>United Kingdom</li>
+</ol>
+
+</li></ul>
+
+
+
+
+  </li></ol>    
+
+
+</body>
+</html>
