@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body bgcolor="lightpink" >
+    
+    <h1 align="center"><u>Links to mostly used websites.</u></h1>
+
+    <h3>
+    <a href="https://www.google.com/" target_blank>Google</a><br>
+    <a href="https://www.youtube.com/"target_blank>YouTube</a><br>
+    <a href="https://github.com/"target_blank>Github</a><br>
+    <a href="https://www.funtastictoy.com/educational-cartoons/"target_blank>Educational Cartoons</a>
+    
+
+</h3>
+
+
+    <h1 align="center"><u>Useful contact that may helpful for you</u>.</h1>
+<h2>
+    <h2><a href="tel:18001801104" target="_blank">Covid-19 helpline number</a><br>
+    <a href="tel:18008899999" target="_blank">Medical helpline number</a><br>
+    <a href="tel:18002744504" target="_blank">jio customer care helpline number</a><br>
+    <a href="tel:911123978046" target="_blank">Coding blocks helpline number</a></h2>
+</h2>
+
+<h1 align="center"><u>Important e-mail id that you must know.</u></h1>
+<h2><a href="mail to:admissions@codingblocks.com" target="_blank">coding blocks helpline e-mail id</a><br>
+    <a href="mail to:ncov2019@gov.in" target="_blank">covid-19 helpline e-mail id</a><br>
+    <a href="mail to:support@vidyamandir.com" target="_blank">Vidyamandir classes helpline e-mail id</a><br>
+    <a href="mail to:abc@com" target="_blank">Sbi helpline e-mail id</a></h2>
+
+</body>
+</html>
